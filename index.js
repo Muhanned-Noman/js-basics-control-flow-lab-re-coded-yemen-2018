@@ -31,7 +31,7 @@
       switch (someValue){
         case someValue === "generous":
           greeting="";
-          break
+          break;
           
       }
     }
