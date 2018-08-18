@@ -30,7 +30,7 @@
       let greeting;
       switch (someValue){
         case someValue === "generous":
-          greeting="";
+          greeting="Thank you so much.";
           break;
           
       }
