@@ -29,10 +29,10 @@
       //don't forget to return whatever the result is!
       let greeting;
       switch (someValue){
-        case someValue === "generous":
+        case "generous":
           greeting="Thank you so much.";
           break;
-        case someValue === "not as generous":
+        case "not as generous":
           greeting="Thank you.";
           break;
         default:
