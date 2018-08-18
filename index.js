@@ -20,7 +20,7 @@
       //this is where we can use conditionals given our argument, someValue
       //don't forget to return whatever the result is!
       
-      return someValue === "NTC" ? "Ok, sounds good.":"No go.";
+       someValue === "NTC" ? return "Ok, sounds good.":return "No go.";
     }
     
         function switchOnCharmFromTip(someValue) {
