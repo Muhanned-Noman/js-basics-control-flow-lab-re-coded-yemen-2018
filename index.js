@@ -30,6 +30,7 @@
       
       switch (someValue){
         case:
-          someValue = ""
+          someValue === "generous";
+          
       }
     }
