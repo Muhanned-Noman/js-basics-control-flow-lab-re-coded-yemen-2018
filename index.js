@@ -19,8 +19,8 @@
         function ternaryCheckCity(someValue) {
       //this is where we can use conditionals given our argument, someValue
       //don't forget to return whatever the result is!
-      
-       someValue === "NTC" ? return "Ok, sounds good.":return "No go.";
+      let greeting;
+       someValue === "NTC" ?  greeting="Ok, sounds good.": greeting="No go.";
     }
     
         function switchOnCharmFromTip(someValue) {
