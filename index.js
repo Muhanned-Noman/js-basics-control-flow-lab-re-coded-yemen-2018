@@ -32,7 +32,7 @@
         case someValue === "generous":
           greeting="Thank you so much.";
           break;
-        case someValue === "generous":
+        case someValue === "not as generous":
           greeting="Thank you so much.";
           break;
           
