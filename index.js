@@ -27,4 +27,8 @@
         function switchOnCharmFromTip(someValue) {
       //this is where we can use conditionals given our argument, someValue
       //don't forget to return whatever the result is!
+      
+      switch {
+        
+      }
     }
