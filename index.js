@@ -33,8 +33,9 @@
           greeting="Thank you so much.";
           break;
         case someValue === "not as generous":
-          greeting="Thank you so much.";
+          greeting="Thank you.";
           break;
+        default
           
       }
     }
