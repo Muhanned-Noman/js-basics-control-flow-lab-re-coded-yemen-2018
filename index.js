@@ -16,12 +16,14 @@
       return greeting;
     }
     
-        function ternaryCheckCity() {
+        function ternaryCheckCity(someValue) {
       //this is where we can use conditionals given our argument, someValue
       //don't forget to return whatever the result is!
+      
+      someValue === "NTC" ? "":"";
     }
     
-        function switchOnCharmFromTip() {
+        function switchOnCharmFromTip(someValue) {
       //this is where we can use conditionals given our argument, someValue
       //don't forget to return whatever the result is!
     }
