@@ -39,4 +39,5 @@
         greeting="Bye.";
           
       }
+      return greeting;
     }
