@@ -6,7 +6,7 @@
       if(someValue < 400){
         greeting = "This one is on me!";
       }
-      else if(someValue > 2000){
+      else if(someValue > 2000 & someValue < 2490){
         greeting = "I will gladly take your thirty bucks."
       }
       else if(someValue > 2500){
