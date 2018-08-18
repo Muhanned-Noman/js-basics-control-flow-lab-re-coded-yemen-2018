@@ -35,7 +35,8 @@
         case someValue === "not as generous":
           greeting="Thank you.";
           break;
-        default
+        default:
+        greeting="Bye.";
           
       }
     }
