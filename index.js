@@ -9,7 +9,10 @@
       else if(someValue > 2000){
         greeting = "I will gladly take your thirty bucks."
       }
-      No can do.
+      else if(someValue > 2500){
+        greeting = "No can do."
+      }
+      
       return greeting;
     }
     
