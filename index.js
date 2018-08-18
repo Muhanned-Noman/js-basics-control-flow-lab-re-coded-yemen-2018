@@ -20,7 +20,7 @@
       //this is where we can use conditionals given our argument, someValue
       //don't forget to return whatever the result is!
       let greeting;
-       someValue === "NTC" ?  greeting="Ok, sounds good." : greeting="No go.";
+       someValue === "NYC" ?  greeting="Ok, sounds good." : greeting="No go.";
        return greeting;
     }
     
