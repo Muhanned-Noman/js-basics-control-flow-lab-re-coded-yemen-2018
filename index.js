@@ -21,6 +21,7 @@
       //don't forget to return whatever the result is!
       let greeting;
        someValue === "NTC" ?  greeting="Ok, sounds good.": greeting="No go.";
+       return greeting;
     }
     
         function switchOnCharmFromTip(someValue) {
