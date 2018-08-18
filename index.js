@@ -29,7 +29,7 @@
       //don't forget to return whatever the result is!
       
       switch (someValue){
-        case:
+        case x;
           someValue === "generous";
           
       }
